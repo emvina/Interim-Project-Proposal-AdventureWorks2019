@@ -1,0 +1,702 @@
+﻿BusinessEntityID,Name,AnnualRevenue,BankName,BusinessType,YearOpened,NumberEmployees,SquareFeet
+324,Valley Toy Store,30000.00,Reserve Security,BM,1979,6,9000
+326,Worthwhile Activity Store,30000.00,United Security,BM,1987,7,8000
+328,Purchase Mart,150000.00,United Security,OS,1992,49,38000
+330,Major Sport Suppliers,300000.00,Reserve Security,OS,1998,52,68000
+332,Family's Favorite Bike Shop,80000.00,Primary International,BM,1997,18,21000
+334,Global Plaza,80000.00,Reserve Security,BM,1975,19,19000
+336,Imported and Domestic Cycles,100000.00,United Security,BM,2000,20,24000
+338,Systematic Sales,300000.00,Primary International,OS,1999,55,73000
+340,eCommerce Bikes,300000.00,Guardian Bank,OS,1999,58,69000
+342,Mountain Toy Store,80000.00,International Bank,BM,2000,17,18000
+344,Retail Sales and Service,80000.00,Primary Bank & Reserve,BM,1994,14,18000
+346,Designated Distributors,300000.00,International Security,OS,1979,61,72000
+348,Bold Bike Accessories,300000.00,Primary Bank & Reserve,OS,1999,58,72000
+350,Twin Cycles,80000.00,International Security,BM,1988,11,21000
+352,Tiny Bike Boutique,30000.00,International Bank,BM,1978,4,6000
+354,Acclaimed Bicycle Company,300000.00,International Bank,OS,1979,61,73000
+356,Serious Cycles,300000.00,United Security,OS,1996,64,71000
+358,Quality Bike Sales,300000.00,Reserve Security,OS,1991,67,74000
+360,Novelty Bikes,300000.00,Primary International,OS,1993,70,74000
+362,Distinctive Cycles Sales & Service,300000.00,Primary Bank & Reserve,OS,1995,79,75000
+364,Leading Bike Distributors,80000.00,Reserve Security,BS,1978,13,18000
+366,Activity Center,150000.00,Primary Bank & Reserve,BS,1971,37,37000
+368,Brightwork Company,150000.00,International Security,BS,1979,38,36000
+370,Resale Services,80000.00,United Security,BM,1988,16,21000
+372,The Gear Store,80000.00,International Bank,BM,1982,14,21000
+374,Immense Manufacturing Company,300000.00,Guardian Bank,OS,1998,73,76000
+376,Extended Bike Sales,300000.00,International Security,OS,1990,76,73000
+378,Pedaling Components,150000.00,United Security,BS,1988,35,36000
+380,Workout Emporium,150000.00,International Bank,BS,1976,36,39000
+382,Work and Play Association,80000.00,Primary Bank & Reserve,BM,1976,12,22000
+384,Seaside Bike Works,80000.00,International Security,BM,1970,10,19000
+386,Nice Bikes,30000.00,Guardian Bank,BM,1975,8,9000
+322,Irregulars Outlet,30000.00,Primary International,BM,1984,5,7000
+320,Metropolitan Sales and Rental,30000.00,Guardian Bank,BM,1976,4,6000
+318,"Great Bikes ",30000.00,International Security,BM,1981,3,10000
+316,Fun Toys and Bikes,30000.00,Primary Bank & Reserve,BM,1973,2,6000
+314,Top of the Line Bikes,150000.00,International Bank,OS,1986,46,40000
+312,Vinyl and Plastic Goods Corporation,150000.00,Primary Bank & Reserve,OS,1980,43,41000
+310,New Bikes Company,150000.00,International Security,OS,1974,40,39000
+308,Valley Bicycle Specialists,300000.00,Primary Bank & Reserve,OS,1979,66,72000
+306,Clamps & Brackets Co.,80000.00,International Security,BM,1985,10,17000
+304,Bicycle Accessories and Kits,30000.00,Primary Bank & Reserve,BM,1990,9,7000
+302,Area Bike Accessories,30000.00,International Bank,BM,1982,8,9000
+300,Nationwide Supply,80000.00,Guardian Bank,BM,1987,17,21000
+298,The Bike Mechanics,80000.00,International Security,BM,1994,16,18000
+296,Riders Company,80000.00,Primary Bank & Reserve,BM,1999,15,21000
+294,Professional Sales and Service,80000.00,International Bank,BM,1991,14,18000
+292,Next-Door Bike Store,80000.00,United Security,BM,1996,13,21000
+388,Remarkable Bike Store,80000.00,United Security,BS,1972,10,17000
+390,Road-Way Mart,100000.00,Reserve Security,BS,1998,27,26000
+392,Small Cycle Store,100000.00,United Security,BS,1971,28,25000
+394,Blue-Ribbon Bike Company,30000.00,Primary International,BM,1970,6,9000
+396,Flawless Bike Shop,30000.00,Reserve Security,BM,1978,4,10000
+398,Grand Bicycle Stores,30000.00,United Security,BM,1973,2,10000
+400,Exertion Activities Club,150000.00,Guardian Bank,BS,1984,32,38000
+402,Impromptu Trips,150000.00,Primary International,BS,1978,33,37000
+404,Margie's Travel,150000.00,Reserve Security,BS,1972,34,35000
+406,Kickstand Sellers,30000.00,International Bank,BM,1981,3,8000
+408,Nearest Bike Store,30000.00,Primary Bank & Reserve,BM,1976,4,8000
+410,Fast Bike Works,100000.00,Primary International,BS,1971,28,25000
+412,Gasless Cycle Shop,100000.00,Reserve Security,BS,2001,29,24000
+414,Lubricant and Grease Suppliers,150000.00,United Security,BS,1996,30,37000
+416,Teen Discount Store,80000.00,Reserve Security,BM,1994,16,18000
+418,Transportation Options,80000.00,United Security,BM,1987,17,20000
+420,Capital Riding Supplies,150000.00,Primary Bank & Reserve,OS,1986,46,39000
+422,Bike Boutique,150000.00,International Bank,OS,1992,49,41000
+424,Bikes Anyone?,100000.00,International Security,BS,1996,22,27000
+426,Cross-town Parts Shop,80000.00,Guardian Bank,BS,1990,19,23000
+428,Finer Cycle Shop,80000.00,Primary International,BS,1984,16,20000
+430,Center Cycle Shop,100000.00,Primary Bank & Reserve,BM,2000,20,25000
+432,Bulk Discount Store,80000.00,International Security,BM,2000,17,21000
+434,Country Parts Shop,80000.00,Guardian Bank,BM,1994,14,21000
+436,Second Bike Shop,80000.00,Guardian Bank,BM,2000,19,21000
+438,First-Rate Outlet,100000.00,Primary International,BM,2000,20,26000
+440,Juvenile Sports Equipment,80000.00,Reserve Security,BM,1994,18,20000
+442,Another Bicycle Company,30000.00,Reserve Security,BM,1973,2,6000
+444,Fourth Bike Store,30000.00,United Security,BM,1981,3,9000
+446,Rodeway Bike Store,30000.00,International Bank,BM,1976,4,7000
+448,Traction Tire Company,150000.00,International Bank,BS,1990,31,39000
+450,Unsurpassed Bikes,150000.00,Primary Bank & Reserve,BS,1984,32,39000
+452,Field Trip Inc,150000.00,International Security,BS,1978,33,35000
+454,Tire Company,150000.00,International Bank,BS,1983,45,37000
+456,Uncompromising Quality Co,150000.00,Primary Bank & Reserve,BS,1991,46,39000
+458,Metallic Paint and Overcoat Co,100000.00,Primary Bank & Reserve,BS,1971,28,26000
+460,Pro Sporting Goods,300000.00,Primary International,OS,1972,90,79000
+462,Sporting Goods and Bicycle Shop,300000.00,Guardian Bank,OS,1977,91,78000
+464,Odometers and Accessories Company,300000.00,International Security,OS,1987,92,76000
+466,Scratch-Resistant Finishes Company,80000.00,Guardian Bank,BS,1984,16,21000
+468,Topnotch Bikes,80000.00,Primary International,BS,1978,13,22000
+470,"Unicycles, Bicycles, and Tricycles",80000.00,Reserve Security,BS,1972,10,17000
+472,Safe Cycles Shop,300000.00,International Security,OS,1998,73,72000
+474,Number 1 Supply,300000.00,Primary Bank & Reserve,OS,1990,76,75000
+476,Industrial Supplies,300000.00,International Bank,OS,1995,79,73000
+478,Golf and Cycle Store,300000.00,Guardian Bank,OS,1978,86,75000
+480,Front Runner Bikes,300000.00,International Security,OS,1983,87,77000
+482,Favorite Toy Distributor,300000.00,Primary Bank & Reserve,OS,1975,88,77000
+484,World Bike Discount Store,150000.00,Guardian Bank,BS,1979,38,39000
+486,Global Sporting Goods,150000.00,Primary International,BS,1974,39,36000
+488,Historic Bicycle Sales,150000.00,Reserve Security,BS,1982,40,38000
+490,Commuter Bicycle Store,80000.00,Reserve Security,BM,1987,17,22000
+492,Coalition Bike Company,80000.00,United Security,BM,1997,18,23000
+494,Travel Systems,80000.00,International Bank,BM,1975,19,21000
+496,Grease and Oil Products Company,150000.00,Primary Bank & Reserve,BS,1979,38,36000
+498,Moderately-Priced Bikes Store,150000.00,International Security,BS,1974,39,39000
+500,Toy Manufacturing Inc,150000.00,Guardian Bank,BS,1977,41,40000
+502,Eighty Toy Stores,150000.00,Primary International,BS,1985,42,37000
+504,Economy Bikes Company,150000.00,Reserve Security,BS,1980,43,41000
+506,Third Bike Store,150000.00,United Security,BS,1988,44,37000
+508,Atypical Bike Company,100000.00,Reserve Security,BM,2000,20,25000
+510,Bikes for Two,80000.00,United Security,BM,1994,18,22000
+512,Metal Processing Company,150000.00,International Security,BS,1986,47,39000
+514,Widget Bicycle Specialists,150000.00,Guardian Bank,BS,1994,48,38000
+516,Initial Bike Company,80000.00,International Security,BM,1996,13,19000
+518,Latest Sports Equipment,80000.00,Guardian Bank,BM,1991,14,18000
+520,Modern Bike Store,80000.00,Primary International,BM,1999,15,21000
+522,Raw Materials Inc,300000.00,Primary Bank & Reserve,OS,1998,73,74000
+524,Lots of Bikes Storehouse,300000.00,International Bank,OS,1990,76,73000
+526,Futuristic Bikes,300000.00,United Security,OS,1995,79,77000
+528,Parcel Express Delivery Service,150000.00,United Security,BS,1979,38,36000
+530,Outdoor Distributors,150000.00,International Bank,BS,1974,39,36000
+532,North Bike Company,150000.00,Primary Bank & Reserve,BS,1982,40,37000
+534,Prosperous Tours,300000.00,Guardian Bank,OS,1999,99,79000
+536,Nonskid Tire Company,300000.00,International Security,OS,1999,100,80000
+538,Amalgamated Parts Shop,300000.00,Primary Bank & Reserve,OS,1999,99,77000
+540,Metro Bike Works,300000.00,International Bank,OS,1999,100,77000
+542,Best o' Bikes,80000.00,Primary International,BS,1972,10,19000
+544,Painters Bicycle Specialists,100000.00,Guardian Bank,BS,1998,27,24000
+546,Client Discount Store,100000.00,Guardian Bank,BM,2000,20,24000
+548,Eastside Sporting Goods,80000.00,Primary International,BM,2000,17,19000
+550,Helmets and Cycles,80000.00,Reserve Security,BM,1994,14,21000
+552,Requisite Part Supply,150000.00,Guardian Bank,BS,1988,35,39000
+554,Racks and Security Systems,150000.00,Primary International,BS,1976,36,39000
+556,Mechanical Products Ltd.,150000.00,Reserve Security,BS,1971,37,38000
+558,Commendable Bikes,150000.00,Guardian Bank,BS,1974,39,37000
+560,Online Bike Sellers,150000.00,Primary International,BS,1982,40,39000
+562,Custom Accessories Company,300000.00,Guardian Bank,OS,1998,98,79000
+564,Unusual Bicycle Company,300000.00,International Security,OS,1999,99,78000
+566,Courteous Bicycle Specialists,30000.00,International Security,BM,1982,8,10000
+568,Hobby Store,30000.00,Guardian Bank,BM,1976,5,6000
+570,Professional Cycle Store,30000.00,Primary International,BM,1970,2,10000
+572,Bike Universe,100000.00,United Security,BS,1971,28,28000
+574,Fifth Bike Store,100000.00,International Bank,BS,2001,25,26000
+576,Independent Outlet,100000.00,Primary Bank & Reserve,BS,1996,22,25000
+578,Rambling Tours,80000.00,International Security,BS,1990,19,19000
+580,Farthest Bike Store,300000.00,United Security,OS,1987,80,74000
+582,Excellent Bikes,300000.00,Reserve Security,OS,1992,81,75000
+584,Curbside Universe,300000.00,Primary International,OS,1984,82,73000
+586,Alternative Vehicles,150000.00,Primary Bank & Reserve,BS,1983,45,41000
+588,Channel Outlet,150000.00,International Security,BS,1991,46,40000
+590,Full Sports Supply,150000.00,Guardian Bank,BS,1986,47,38000
+592,Retail Mall,300000.00,Primary International,OS,1977,91,79000
+594,Racing Store,300000.00,Guardian Bank,OS,1987,92,78000
+596,Metro Metals Co.,300000.00,International Security,OS,1974,93,77000
+598,Sheet Metal Manufacturing,80000.00,International Security,BM,1997,17,19000
+600,Thorough Parts and Repair Services,80000.00,Guardian Bank,BM,1975,18,22000
+602,Uttermost Bike Shop,80000.00,Primary International,BM,2000,19,20000
+604,Mechanical Sports Center,150000.00,International Security,BS,1995,40,40000
+606,Speedometer Sales,150000.00,Guardian Bank,BS,1995,37,39000
+608,Two-Wheeled Transit Company,150000.00,Primary International,BS,1983,34,38000
+610,Mountain Emporium,150000.00,Reserve Security,BS,1998,31,37000
+612,Metro Cycle Shop,300000.00,Guardian Bank,OS,1989,83,74000
+614,Outdoor Sporting Goods,300000.00,International Security,OS,1981,84,74000
+616,Tread Industries,300000.00,Primary Bank & Reserve,OS,1986,85,77000
+618,Petroleum Products Distributors,300000.00,International Bank,OS,1978,86,78000
+620,Tandem Bicycle Store,150000.00,International Security,OS,1986,46,37000
+622,Bikes and Motorbikes,150000.00,Primary Bank & Reserve,OS,1992,49,40000
+624,Budget Toy Store,300000.00,International Bank,OS,1998,52,71000
+626,Camping and Sports Store,300000.00,Reserve Security,OS,1987,80,77000
+628,Ace Bicycle Supply,300000.00,Primary International,OS,1992,81,73000
+630,Rural Department Store,150000.00,United Security,BS,1990,31,35000
+632,Sports Commodities,150000.00,International Bank,BS,1984,32,37000
+634,Riverside Company,150000.00,Primary Bank & Reserve,BS,1978,33,38000
+636,Bicycle Exporters,150000.00,International Security,BS,1972,34,39000
+638,Responsible Bike Dealers,150000.00,International Security,BS,1989,49,40000
+640,Western Bike Supplies,150000.00,Primary Bank & Reserve,BS,1994,48,38000
+642,Advanced Bike Components,150000.00,Primary International,OS,1974,40,38000
+644,Aerobic Exercise Company,150000.00,Guardian Bank,OS,1980,43,40000
+646,Rural Sporting Goods,80000.00,United Security,BM,1985,10,20000
+648,Corner Bicycle Supply,80000.00,International Bank,BM,1993,11,17000
+650,Distance Bikes,80000.00,Primary Bank & Reserve,BM,1988,12,20000
+652,Westside Plaza,300000.00,United Security,OS,1989,83,74000
+654,Ultimate Bike Shop,300000.00,Reserve Security,OS,1981,84,78000
+656,Outstanding Cycles,300000.00,Primary International,OS,1986,85,78000
+658,Vigorous Sports Store,300000.00,Guardian Bank,OS,1984,82,73000
+660,Sports Merchandise,300000.00,International Security,OS,1989,83,73000
+662,Fitness Toy Store,300000.00,Primary Bank & Reserve,OS,1981,84,75000
+664,Casual Bicycle Store,80000.00,Guardian Bank,BM,1985,10,18000
+666,Fitness Discount Store,80000.00,Primary International,BM,1993,11,19000
+668,General Cycle Storehouse,80000.00,Reserve Security,BM,1988,12,20000
+670,Fitness Cycling,80000.00,International Bank,BM,1988,16,18000
+672,Good Bike Shop,80000.00,Primary Bank & Reserve,BM,1982,14,19000
+674,Imaginary Toys,80000.00,International Security,BM,1976,12,20000
+676,Inexpensive Parts Shop,150000.00,Guardian Bank,BS,1972,34,35000
+678,Nuts and Bolts Mfg.,150000.00,Primary International,BS,1988,35,37000
+680,Principal Bicycle Supply,150000.00,Reserve Security,BS,1976,36,39000
+682,Thrilling Bike Tours,150000.00,United Security,BS,1971,37,37000
+684,This Area Sporting Goods,150000.00,International Bank,BS,1979,38,39000
+686,Full-Service Bike Store,150000.00,Primary Bank & Reserve,BS,1974,39,38000
+688,Plastic Products Manufacturers,150000.00,International Security,BS,1982,40,37000
+690,Kids and Adults Cycle Shop,300000.00,Primary Bank & Reserve,OS,1974,93,75000
+692,Grand Discount Store,300000.00,International Bank,OS,1974,94,75000
+694,Genuine Bike Shop,300000.00,United Security,OS,1980,95,76000
+696,Extreme Riding Supplies,300000.00,Reserve Security,OS,1986,96,79000
+698,Bike Rims Company,300000.00,Primary International,OS,1992,97,80000
+700,Fleet Bikes,150000.00,Primary International,BS,1989,49,40000
+702,Local Hardware Factory,150000.00,Reserve Security,BS,1997,46,41000
+704,Only Bikes and Accessories,150000.00,United Security,BS,1992,43,40000
+706,Rental Gallery,150000.00,International Bank,BS,1995,40,37000
+708,South Bike Company,150000.00,Primary Bank & Reserve,BS,1995,37,40000
+710,Wonderful Bikes Inc.,150000.00,International Security,BS,1983,34,37000
+712,Another Sporting Goods Company,150000.00,Guardian Bank,BS,1998,31,37000
+714,Discount Bicycle Specialists,100000.00,Primary International,BS,1971,28,28000
+716,Famous Bike Sales and Service,100000.00,Reserve Security,BS,2001,25,26000
+718,First Supplies,100000.00,United Security,BS,1996,22,26000
+720,Machines & Cycles Store,80000.00,International Bank,BS,1990,19,22000
+722,Pedals Warehouse,80000.00,Primary Bank & Reserve,BS,1984,16,20000
+724,Two Wheels Cycle Store,80000.00,International Security,BS,1978,13,22000
+726,Westside Cycle Store,80000.00,Guardian Bank,BS,1972,10,20000
+728,Wholesale Bikes,100000.00,International Security,BS,1998,27,27000
+730,Very Best Sports Supply,100000.00,Guardian Bank,BS,1971,28,28000
+732,Urban Sports Emporium,100000.00,Primary International,BS,2001,29,24000
+734,Superlative Bikes,150000.00,Reserve Security,BS,1996,30,36000
+736,Primary Cycle Shop,150000.00,Reserve Security,BS,1977,41,37000
+738,Sixth Bike Store,150000.00,United Security,BS,1985,42,37000
+740,Touring Services,150000.00,International Bank,BS,1980,43,38000
+742,Vehicle Shop,150000.00,Primary Bank & Reserve,BS,1988,44,38000
+744,First Department Stores,150000.00,International Security,BS,1983,45,38000
+746,Grand Sport Boutique,150000.00,Guardian Bank,BS,1991,46,39000
+748,Major Equipment Co,150000.00,Primary International,BS,1986,47,37000
+750,Custom Sales and Service,150000.00,Reserve Security,BS,1994,48,39000
+752,Elemental Sporting Goods,150000.00,United Security,BS,1989,49,41000
+754,Distinctive Store,150000.00,International Bank,BS,1997,46,37000
+756,Grand Cycle Store,150000.00,Primary Bank & Reserve,BS,1992,43,41000
+758,Nearby Bike Mall,300000.00,United Security,OS,1983,87,74000
+760,Handy Bike Services,300000.00,Reserve Security,OS,1975,88,76000
+762,Friendly Bike Shop,300000.00,Primary International,OS,1980,89,75000
+764,Fashionable Bikes and Accessories,300000.00,Guardian Bank,OS,1972,90,76000
+766,Extreme Toy Store,300000.00,International Security,OS,1977,91,75000
+768,Citywide Service and Repair,300000.00,Primary Bank & Reserve,OS,1987,92,79000
+770,Best Cycle Store,300000.00,International Bank,OS,1974,93,78000
+772,Professional Sporting Goods,300000.00,United Security,OS,1974,94,78000
+774,Rugged Bikes,300000.00,Reserve Security,OS,1980,95,77000
+776,Principal Bike Company,300000.00,Primary International,OS,1986,96,79000
+778,One-Piece Handle Bars,300000.00,Guardian Bank,OS,1992,97,80000
+780,Finer Riding Supplies,300000.00,International Security,OS,1998,98,78000
+782,Neighborhood Store,300000.00,Primary International,OS,1983,87,77000
+784,Online Bike Catalog,300000.00,Guardian Bank,OS,1975,88,74000
+786,Outdoor Equipment Store,300000.00,International Security,OS,1980,89,76000
+788,Paint Supply,300000.00,Primary Bank & Reserve,OS,1972,90,78000
+790,Preferred Bikes,300000.00,International Bank,OS,1977,91,77000
+792,Rally Day Mall,300000.00,United Security,OS,1987,92,75000
+794,Rewarding Activities Company,300000.00,Reserve Security,OS,1974,93,76000
+796,Rich Department Store,300000.00,Primary International,OS,1974,94,76000
+798,Sales and Supply Company,300000.00,Guardian Bank,OS,1980,95,75000
+800,Stationary Bikes and Stands,300000.00,International Security,OS,1986,96,76000
+802,Successful Sales Company,150000.00,Guardian Bank,BS,1997,46,38000
+804,Downtown Hotel,300000.00,International Bank,OS,1986,85,74000
+806,Certified Sports Supply,300000.00,United Security,OS,1978,86,78000
+808,Registered Cycle Store,300000.00,Reserve Security,OS,1983,87,77000
+810,Rampart Amusement Company,300000.00,Primary International,OS,1975,88,75000
+812,Sundry Sporting Goods,30000.00,Primary Bank & Reserve,BM,1984,5,7000
+814,Excellent Riding Supplies,30000.00,International Security,BM,1979,6,9000
+816,Farthermost Bike Shop,30000.00,Guardian Bank,BM,1987,7,8000
+818,Suburban Cycle Shop,30000.00,Primary International,BM,1982,8,10000
+820,Weekend Tours,30000.00,Reserve Security,BM,1990,9,9000
+822,Racing Bike Outlet,300000.00,United Security,OS,1998,52,72000
+824,Utilitarian Sporting Goods,300000.00,Reserve Security,OS,1999,55,72000
+826,"Bike Goods ",300000.00,Primary International,OS,1999,58,73000
+828,Vigorous Exercise Company,300000.00,Guardian Bank,OS,1979,61,72000
+830,Showcase for Cycles,300000.00,International Security,OS,1996,64,71000
+832,Lease-a-Bike Shop,300000.00,Primary Bank & Reserve,OS,1991,67,71000
+834,Functional Store South,300000.00,International Bank,OS,1993,70,71000
+836,Active Cycling,300000.00,United Security,OS,1998,73,73000
+838,Stock Parts and Supplies,300000.00,Reserve Security,OS,1990,76,76000
+840,Roadway Supplies,300000.00,Primary International,OS,1995,79,73000
+842,Sensational Discount Store,300000.00,Guardian Bank,OS,1987,80,73000
+844,Future Bikes,300000.00,Guardian Bank,OS,1992,81,74000
+846,Super Sports Store,300000.00,Primary Bank & Reserve,OS,1999,100,78000
+848,Satin Finish Company,300000.00,International Bank,OS,1979,66,74000
+850,Regional Manufacturing,150000.00,Primary Bank & Reserve,OS,1974,40,38000
+852,Original Bicycle Supply Company,150000.00,International Bank,OS,1980,43,38000
+854,First Center,150000.00,United Security,OS,1986,46,39000
+856,Action Bicycle Specialists,150000.00,Reserve Security,OS,1992,49,40000
+858,Roadway Bike Emporium,300000.00,Primary International,OS,1998,52,68000
+860,"Sleek Bikes ",300000.00,Guardian Bank,OS,1999,55,70000
+862,Retail Sporting Equipment,300000.00,International Security,OS,1999,58,72000
+864,Price-Cutter Discount Bikes,300000.00,Primary Bank & Reserve,OS,1979,61,70000
+866,Brand New Bikes,300000.00,International Bank,OS,1996,64,73000
+868,Central Bicycle Specialists,300000.00,United Security,OS,1991,67,71000
+870,Vast Bike Sales and Rental,300000.00,Reserve Security,OS,1993,70,73000
+872,Summer Sports Place,300000.00,Primary International,OS,1998,73,73000
+874,Real Sporting Goods,300000.00,Guardian Bank,OS,1990,76,72000
+876,Versatile Sporting Goods Company,300000.00,Primary Bank & Reserve,OS,1996,64,74000
+878,Bicycle Outfitters,300000.00,International Bank,OS,1991,67,72000
+880,The Bike Shop,300000.00,United Security,OS,1993,70,73000
+882,Safe Toys,300000.00,Reserve Security,OS,1998,73,74000
+884,Qualified Sales and Repair Services,300000.00,Primary International,OS,1990,76,75000
+886,Our Sporting Goods Store,300000.00,Guardian Bank,OS,1995,79,76000
+888,Lustrous Paints and Components,300000.00,International Security,OS,1987,80,77000
+890,Expert Sports Store,300000.00,Primary Bank & Reserve,OS,1992,81,77000
+892,Coho Sports,300000.00,International Bank,OS,1984,82,75000
+894,Jumbo Bikes,150000.00,United Security,BS,1977,41,39000
+896,Quick Delivery Service,150000.00,International Bank,BS,1985,42,37000
+898,Tough and Reliable Parts,150000.00,Primary Bank & Reserve,BS,1980,43,40000
+900,Basic Sports Equipment,150000.00,International Security,BS,1988,44,38000
+902,Cash & Carry Bikes,150000.00,Guardian Bank,BS,1983,45,39000
+904,Convenient Bike Shop,150000.00,Primary International,BS,1991,46,38000
+906,Fitness Bike Accessories,150000.00,Reserve Security,BS,1986,47,39000
+908,General Bike Corporation,150000.00,United Security,BS,1994,48,38000
+910,Quitting Business Distributors,150000.00,International Bank,BS,1989,49,40000
+912,Retail Cycle Shop,150000.00,Primary Bank & Reserve,BS,1997,46,38000
+914,Social Activities Club,150000.00,International Security,BS,1992,43,39000
+916,Blue Bicycle Company,150000.00,Guardian Bank,BS,1995,40,36000
+918,Expert Cycle Store,150000.00,Primary International,BS,1995,37,38000
+920,General Riding Supplies,150000.00,Reserve Security,BS,1983,34,36000
+922,Parts Shop,150000.00,United Security,BS,1998,31,38000
+924,Riding Excursions,100000.00,International Bank,BS,1971,28,27000
+926,Unique Bikes,100000.00,Primary Bank & Reserve,BS,2001,25,27000
+928,Rural Cycle Emporium,80000.00,Primary International,BM,1988,11,21000
+930,Associated Bikes,30000.00,Reserve Security,BM,1982,8,7000
+932,Modular Cycle Systems,30000.00,United Security,BM,1976,5,6000
+934,A Bike Store,30000.00,International Bank,BM,1970,2,7000
+936,Journey Sporting Goods,80000.00,Primary Bank & Reserve,BM,1996,13,21000
+938,Two Bike Shops,80000.00,International Security,BM,1991,14,20000
+940,Cycles Wholesaler & Mfg.,80000.00,Guardian Bank,BM,1999,15,21000
+942,Wheels Inc.,80000.00,Primary International,BM,1994,16,19000
+944,Number One Bike Co.,150000.00,Guardian Bank,BS,1982,40,40000
+946,Racing Supply Distributors,150000.00,Primary International,BS,1977,41,38000
+948,Standard Bikes,150000.00,Reserve Security,BS,1985,42,38000
+950,The Bicycle Accessories Company,150000.00,United Security,BS,1980,43,37000
+952,Active Systems,150000.00,International Bank,BS,1988,44,39000
+954,Futuristic Sport Distributors,300000.00,Primary Bank & Reserve,OS,1974,94,78000
+956,Finer Sales and Service,300000.00,International Bank,OS,1980,95,77000
+958,Big-Time Bike Store,300000.00,United Security,OS,1986,96,80000
+960,The Showroom,300000.00,Reserve Security,OS,1992,97,79000
+962,Spa and Exercise Outfitters,300000.00,Primary International,OS,1998,98,79000
+964,Year-Round Sports,300000.00,United Security,OS,1979,66,75000
+966,The New Bike Store,150000.00,International Bank,OS,1974,40,37000
+968,Resident Cycle Shop,150000.00,United Security,OS,1980,43,38000
+970,Primary Bike Distributors,150000.00,Reserve Security,OS,1986,46,39000
+972,Major Bicycle Store,150000.00,Primary International,OS,1992,49,41000
+974,Leather and Vinyl Manufacturing,300000.00,Guardian Bank,OS,1998,52,68000
+976,Genial Bike Associates,300000.00,International Security,OS,1999,55,70000
+978,Commercial Sporting Goods,300000.00,Reserve Security,OS,1979,61,74000
+980,Wholesale Parts,300000.00,Primary International,OS,1996,64,70000
+982,Steel Inc.,300000.00,Guardian Bank,OS,1991,67,74000
+984,Riding Cycles,300000.00,International Security,OS,1993,70,74000
+986,Metro Manufacturing,150000.00,International Security,BS,1977,41,36000
+988,Manufacturers Inc,150000.00,Guardian Bank,BS,1985,42,39000
+990,Locks Company,150000.00,Primary International,BS,1980,43,40000
+992,Latest Accessories Sales,150000.00,Reserve Security,BS,1988,44,38000
+994,Incomparable Bicycle Store,150000.00,United Security,BS,1983,45,41000
+996,Hometown Riding Supplies,150000.00,International Bank,BS,1991,46,38000
+998,Greater Bike Store,150000.00,Primary Bank & Reserve,BS,1986,47,39000
+1000,Games and Sport Supply Company,150000.00,International Security,BS,1994,48,42000
+1002,Distant Inn,150000.00,Guardian Bank,BS,1989,49,38000
+1004,Finer Mart,150000.00,Primary International,BS,1997,46,38000
+1006,Economic Parts Supply,150000.00,Reserve Security,BS,1992,43,40000
+1008,Precision Gears Inc.,150000.00,United Security,BS,1995,40,38000
+1010,Cross-Country Riding Supplies,150000.00,International Bank,BS,1995,37,36000
+1012,Stylish Department Stores,150000.00,Primary Bank & Reserve,BS,1983,34,39000
+1014,Bike World,150000.00,International Security,BS,1998,31,35000
+1016,Central Discount Store,100000.00,Guardian Bank,BS,1971,28,25000
+1018,Trusted Catalog Store,100000.00,Primary International,BS,2001,25,25000
+1020,Bicycle Warehouse Inc.,100000.00,Reserve Security,BS,1996,22,26000
+1022,Sharp Bikes,80000.00,United Security,BS,1990,19,19000
+1024,Exemplary Cycles,80000.00,International Bank,BS,1984,16,20000
+1026,Metropolitan Sports Supply,80000.00,Primary Bank & Reserve,BS,1978,13,21000
+1028,Progressive Sports,80000.00,International Security,BS,1972,10,18000
+1030,Underglaze and Finish Company,80000.00,Reserve Security,BM,1993,11,18000
+1032,Brakes and Gears,80000.00,United Security,BM,1988,12,18000
+1034,The Accessories Store,80000.00,International Bank,BM,1996,13,18000
+1036,Mountain Bike Store,80000.00,Primary Bank & Reserve,BM,1991,14,22000
+1038,Bike Part Wholesalers,80000.00,International Security,BM,1999,15,21000
+1040,Family Cycle Store,80000.00,Guardian Bank,BM,1994,16,18000
+1042,Popular Bike Lines,80000.00,Primary International,BM,1987,17,20000
+1044,Superb Sales and Repair,80000.00,Reserve Security,BM,1997,18,19000
+1046,Better Bike Shop,80000.00,United Security,BM,1975,19,19000
+1048,Countryside Company,100000.00,International Bank,BM,2000,20,26000
+1050,First Bike Store,80000.00,Primary Bank & Reserve,BM,2000,17,21000
+1052,Traditional Department Stores,80000.00,International Security,BM,1994,14,18000
+1054,Eastside Cycle Shop,80000.00,Guardian Bank,BM,1988,11,21000
+1056,General Department Stores,30000.00,Primary International,BM,1982,8,11000
+1058,Mass Market Bikes,30000.00,Reserve Security,BM,1976,5,7000
+1060,Operational Manufacturing,30000.00,United Security,BM,1970,2,8000
+1062,Online Bike Warehouse,80000.00,Primary International,BM,1997,17,21000
+1064,Retread Tire Company,80000.00,Reserve Security,BM,1975,18,20000
+1066,Small Bike Shop,80000.00,United Security,BM,2000,19,23000
+1068,Superior Hardware Distributors,100000.00,International Bank,BM,2000,20,25000
+1070,Fitness Sport Boutique,80000.00,Primary Bank & Reserve,BM,1994,18,23000
+1072,Producer Goods Clearinghouse,80000.00,International Security,BM,1988,16,22000
+1074,Recreation Systems,80000.00,Guardian Bank,BM,1982,14,20000
+1076,Rustic Bike Store,80000.00,Primary International,BM,1976,12,19000
+1078,Eastside Parts Shop,80000.00,Reserve Security,BM,1970,10,17000
+1080,Exchange Parts Inc.,30000.00,United Security,BM,1975,8,9000
+1082,First Cycle Store,30000.00,International Bank,BM,1970,6,9000
+1084,Running and Cycling Gear,30000.00,Primary Bank & Reserve,BM,1978,4,7000
+1086,Seventh Bike Store,30000.00,International Security,BM,1973,2,10000
+1088,Fast Services,30000.00,Guardian Bank,BM,1981,3,9000
+1090,General Associates,30000.00,Primary International,BM,1976,4,9000
+1092,Good Toys,30000.00,Reserve Security,BM,1984,5,9000
+1094,Little Bicycle Supply Shop,30000.00,United Security,BM,1979,6,11000
+1096,Retail Toy Store,30000.00,International Bank,BM,1987,7,8000
+1098,Strenuous Exercise Shop,30000.00,Primary Bank & Reserve,BM,1982,8,7000
+1100,All Seasons Sports Supply,30000.00,International Security,BM,1990,9,10000
+1102,Leisure Clearing House,80000.00,Guardian Bank,BM,1970,10,20000
+1104,Outdoor Toy Store,30000.00,Primary International,BM,1975,8,8000
+1106,The Commissary,30000.00,Reserve Security,BM,1970,6,9000
+1108,Affordable Sports Equipment,30000.00,United Security,BM,1978,4,8000
+1110,Local Sales and Rental,30000.00,International Bank,BM,1973,2,10000
+1112,Economy Center,150000.00,International Bank,BS,1998,31,35000
+1114,Community Department Stores,150000.00,United Security,BS,1983,34,36000
+1116,Area Sheet Metal Supply,150000.00,Reserve Security,BS,1995,37,36000
+1118,Synthetic Materials Manufacturing,150000.00,Primary International,BS,1995,40,39000
+1120,Rural Sales and Service,150000.00,Guardian Bank,BS,1992,43,37000
+1122,Tubeless Tire Company,300000.00,International Bank,OS,1980,89,75000
+1124,Tires and Tubes,300000.00,United Security,OS,1972,90,79000
+1126,Hardware Components,300000.00,Reserve Security,OS,1977,91,75000
+1128,Retail Sporting Goods,300000.00,Primary International,OS,1987,92,78000
+1130,Efficient Cycling,300000.00,Guardian Bank,OS,1974,93,77000
+1132,General Industries,150000.00,Primary International,BS,1994,48,42000
+1134,Highway Bike Shop,150000.00,Reserve Security,BS,1989,49,40000
+1136,Rental Bikes,150000.00,United Security,BS,1997,46,40000
+1138,Roving Sports,150000.00,International Bank,BS,1992,43,41000
+1140,Express Bike Services,150000.00,Primary Bank & Reserve,BS,1995,40,38000
+1142,Major Amusement Company,150000.00,International Security,BS,1995,37,36000
+1144,Retail Discount Store,150000.00,Guardian Bank,BS,1983,34,37000
+1146,Vale Riding Supplies,150000.00,Primary International,BS,1998,31,37000
+1148,A Great Bicycle Company,100000.00,Reserve Security,BS,1971,28,28000
+1150,Certified Bicycle Supply,100000.00,United Security,BS,2001,25,24000
+1152,Exceptional Cycle Services,100000.00,International Bank,BS,1996,22,27000
+1154,Instant Cycle Store,80000.00,Primary Bank & Reserve,BS,1990,19,23000
+1156,Leisure Activities,80000.00,International Security,BS,1984,16,22000
+1158,Paints and Solvents Company,80000.00,Guardian Bank,BS,1978,13,18000
+1160,West Wind Distributors,100000.00,International Bank,BS,2001,29,27000
+1162,Bikes for Kids and Adults,150000.00,Primary Bank & Reserve,BS,1996,30,36000
+1164,Consolidated Sales,150000.00,International Security,BS,1990,31,38000
+1166,Home Town Bike Store,80000.00,United Security,BM,1988,11,20000
+1168,Optimal Bikes,30000.00,International Bank,BM,1982,8,10000
+1170,Sample Bike Store,30000.00,Primary Bank & Reserve,BM,1976,5,7000
+1172,Extras Sporting Goods,30000.00,International Security,BM,1970,2,7000
+1174,Sure & Reliable Sporting Goods,80000.00,International Bank,BM,1997,17,22000
+1176,Eleventh Bike Store,80000.00,Primary Bank & Reserve,BM,1975,18,22000
+1178,Enterprise Center,80000.00,International Security,BM,2000,19,23000
+1180,Purple Bicycle Company,100000.00,Guardian Bank,BM,2000,20,27000
+1182,New and Used Bicycles,80000.00,Primary International,BM,1994,18,20000
+1184,Separate Parts Corporation,80000.00,Reserve Security,BM,1988,16,21000
+1186,Basic Bike Company,80000.00,United Security,BM,1982,14,20000
+1188,"Fabrikam Inc., West",80000.00,International Bank,BM,1976,12,18000
+1190,Mechanical Brake Manufacturers,80000.00,Primary Bank & Reserve,BM,1970,10,21000
+1192,Non-Slip Pedal Company,30000.00,International Security,BM,1975,8,11000
+1194,Variety Bike Outlet,30000.00,Guardian Bank,BM,1970,6,9000
+1196,Weekend Bike Tours,30000.00,Primary International,BM,1978,4,7000
+1198,"Fabrikam Inc., East",80000.00,Guardian Bank,BM,1993,11,20000
+1200,General Supplies,80000.00,Primary International,BM,1988,12,21000
+1202,Noiseless Gear Company,80000.00,Reserve Security,BM,1996,13,20000
+1204,Racing Toys,80000.00,United Security,BM,1991,14,18000
+1206,Capable Sales and Service,30000.00,Primary Bank & Reserve,BM,1981,3,10000
+1208,Little Sports Center,30000.00,International Security,BM,1976,4,10000
+1210,Pretty Bikes and Toys,30000.00,Guardian Bank,BM,1984,5,6000
+1212,Road Way Sales and Rental,30000.00,Primary International,BM,1979,6,10000
+1214,Sturdy Toys,30000.00,Reserve Security,BM,1987,7,9000
+1216,Beneficial Exercises and Activities,30000.00,United Security,BM,1982,8,9000
+1218,Fad Outlet,30000.00,International Bank,BM,1990,9,8000
+1220,Commerce Bicycle Specialists,80000.00,Primary Bank & Reserve,BM,1985,10,19000
+1222,Township Inn,80000.00,International Security,BM,1993,11,18000
+1224,Acceptable Sales & Service,80000.00,Guardian Bank,BM,1988,12,21000
+1226,Brown Bicycle Company,80000.00,Primary International,BM,1996,13,19000
+1228,District Mall,80000.00,Reserve Security,BM,1991,14,19000
+1230,Fitness Supplies,80000.00,United Security,BM,1999,15,19000
+1232,Mail Market,80000.00,International Bank,BM,1994,16,19000
+1234,Spare Parts Co.,80000.00,Primary Bank & Reserve,BM,1987,17,19000
+1236,Twelfth Bike Store,80000.00,International Security,BM,1997,18,21000
+1238,Consolidated Messenger,30000.00,Guardian Bank,BM,1982,8,7000
+1240,Daring Rides,30000.00,Primary International,BM,1976,5,10000
+1242,Field Trip Store,30000.00,Reserve Security,BM,1970,2,8000
+1244,Finish and Sealant Products,80000.00,Guardian Bank,BM,1997,17,22000
+1246,Finer Parts Shop,80000.00,Primary International,BM,1975,18,19000
+1248,Glossy Bikes,80000.00,Reserve Security,BM,2000,19,22000
+1250,Next Door Cycles,100000.00,United Security,BM,2000,20,27000
+1252,Up-To-Date Sports,100000.00,International Security,BM,2000,20,26000
+1254,Mountain Bike Center,80000.00,Guardian Bank,BM,1994,18,20000
+1256,Specialty Sports Store,80000.00,Primary International,BM,1988,16,20000
+1258,Scooters and Bikes Store,80000.00,Reserve Security,BM,1982,14,21000
+1260,Closest Bicycle Store,80000.00,United Security,BM,1976,12,22000
+1262,Roadway Bicycle Supply,80000.00,International Bank,BM,1970,10,19000
+1264,Refined Department Stores,30000.00,Primary Bank & Reserve,BM,1975,8,7000
+1266,Reasonable Bicycle Sales,30000.00,International Security,BM,1970,6,10000
+1268,Out-of-the-Way Hotels,30000.00,Guardian Bank,BM,1978,4,8000
+1270,Outdoor Sports Supply,30000.00,Primary International,BM,1973,2,9000
+1272,Outdoor Aerobic Systems Company,30000.00,Reserve Security,BM,1981,3,8000
+1274,Self-Contained Cycle Parts Company,30000.00,United Security,BM,1976,4,7000
+1276,Metal Clearing House,30000.00,International Bank,BM,1984,5,9000
+1278,Many Bikes Store,30000.00,Primary Bank & Reserve,BM,1979,6,10000
+1280,Largest Bike Store,30000.00,International Security,BM,1987,7,7000
+1282,Kickstands and Accessories Company,30000.00,Guardian Bank,BM,1982,8,10000
+1284,Instruments and Parts Company,30000.00,Primary International,BM,1990,9,8000
+1286,Neighborhood Bicycle Storehouse,80000.00,Reserve Security,BM,1985,10,17000
+1288,Gear-Shift Bikes Limited,80000.00,United Security,BM,1993,11,21000
+1290,Frugal Bike Shop,80000.00,International Bank,BM,1988,12,21000
+1292,Family Entertainment Center,300000.00,Guardian Bank,OS,1980,89,75000
+1294,Go-cart and Bike Specialists,300000.00,International Security,OS,1972,90,78000
+1296,Trailblazing Sports,300000.00,Primary Bank & Reserve,OS,1977,91,78000
+1298,Racing Partners,300000.00,International Bank,OS,1987,92,79000
+1300,Perfect Toys,300000.00,United Security,OS,1974,93,76000
+1302,Exhibition Showroom,300000.00,Reserve Security,OS,1974,94,77000
+1304,Authorized Bike Sales and Rental,300000.00,Primary International,OS,1980,95,75000
+1306,Two-Seater Bikes,300000.00,Guardian Bank,OS,1986,96,80000
+1308,More Bikes!,300000.00,Primary Bank & Reserve,OS,1992,97,79000
+1310,Unified Sports Company,300000.00,International Bank,OS,1998,98,80000
+1312,National Manufacturing,300000.00,United Security,OS,1999,99,80000
+1314,Volume Bike Sellers,300000.00,Reserve Security,OS,1999,100,78000
+1316,Wheelsets Storehouse,300000.00,Primary International,OS,1979,66,73000
+1318,Town Industries,150000.00,Reserve Security,OS,1974,40,38000
+1320,Security Racks and Locks Wholesalers,150000.00,Primary International,OS,1980,43,41000
+1322,Rapid Bikes,150000.00,Guardian Bank,OS,1986,46,40000
+1324,Metro Sports Equipment,150000.00,International Security,OS,1992,49,41000
+1326,Nearby Sporting Goods,300000.00,Primary Bank & Reserve,OS,1998,52,71000
+1328,Front Sporting Goods,300000.00,International Bank,OS,1999,55,70000
+1330,Elite Bikes,300000.00,United Security,OS,1999,58,69000
+1332,Catalog Store,300000.00,United Security,OS,1999,55,69000
+1334,Chic Department Stores,300000.00,Reserve Security,OS,1999,58,71000
+1336,Eastside Department Store,300000.00,Primary International,OS,1979,61,70000
+1338,Sports Sales and Rental,300000.00,Guardian Bank,OS,1996,64,72000
+1340,Cycle Merchants,300000.00,International Security,OS,1991,67,75000
+1342,Global Sports Outlet,300000.00,Primary Bank & Reserve,OS,1993,70,75000
+1344,Exotic Bikes,300000.00,International Bank,OS,1998,73,75000
+1346,Fitness Hotel,300000.00,United Security,OS,1990,76,75000
+1348,Healthy Activity Store,300000.00,Reserve Security,OS,1995,79,74000
+1350,Every Bike Shop,300000.00,Primary International,OS,1987,80,76000
+1352,Grand Industries,300000.00,Guardian Bank,OS,1992,81,77000
+1354,Ideal Components,300000.00,International Security,OS,1984,82,76000
+1356,Larger Cycle Shop,300000.00,Primary Bank & Reserve,OS,1989,83,77000
+1358,Leading Sales & Repair,300000.00,International Bank,OS,1981,84,75000
+1360,Main Bicycle Services,300000.00,United Security,OS,1986,85,75000
+1362,Metro Bike Mart,300000.00,Reserve Security,OS,1978,86,76000
+1364,Tandem Sales and Service,150000.00,International Bank,BS,1972,34,38000
+1366,Sensible Sports,150000.00,United Security,BS,1978,33,37000
+1368,Reliable Retail Center,150000.00,Reserve Security,BS,1984,32,35000
+1370,Liquidation Sales,150000.00,Primary International,BS,1990,31,37000
+1372,Friendly Bike Shop,150000.00,Guardian Bank,BS,1996,30,39000
+1374,Yellow Bicycle Company,100000.00,International Security,BS,2001,29,26000
+1376,Sports Products Store,100000.00,Primary Bank & Reserve,BS,1971,28,26000
+1378,Selected Distributors,100000.00,International Bank,BS,1998,27,27000
+1380,Impervious Paint Company,80000.00,Primary Bank & Reserve,BS,1972,10,18000
+1382,Shipping Specialists,80000.00,International Bank,BS,1978,13,20000
+1384,Finer Sporting Goods,80000.00,United Security,BS,1984,16,18000
+1386,Authentic Sales and Service,80000.00,Reserve Security,BS,1990,19,20000
+1388,Official Parts Shop,100000.00,Primary International,BS,1996,22,24000
+1390,"Contoso, Ltd.",100000.00,Guardian Bank,BS,2001,25,24000
+1392,Discount Tours,100000.00,International Security,BS,1971,28,28000
+1394,Tire Exchange,150000.00,Primary Bank & Reserve,BS,1998,31,36000
+1396,Racing Tours,150000.00,International Bank,BS,1983,34,36000
+1398,Oils and Fluids Warehouse,150000.00,United Security,BS,1995,37,37000
+1400,Finished Parts Shop,150000.00,Reserve Security,BS,1995,40,36000
+1402,Consumer Equipment,150000.00,Primary International,BS,1992,43,37000
+1404,Rally Master Company Inc,300000.00,International Security,OS,1992,97,77000
+1406,Professional Cyclists,300000.00,Primary Bank & Reserve,OS,1998,98,77000
+1408,Sports Products Store,300000.00,International Bank,OS,1999,99,78000
+1410,Exclusive Bicycle Mart,300000.00,United Security,OS,1999,100,77000
+1412,City Manufacturing,300000.00,Reserve Security,OS,1979,66,75000
+1414,Bike Dealers Association,150000.00,United Security,OS,1974,40,40000
+1416,Pedal Systems Company,150000.00,Reserve Security,OS,1980,43,39000
+1418,"Health Spa, Limited",150000.00,Primary International,OS,1986,46,40000
+1420,Global Bike Retailers,150000.00,Guardian Bank,OS,1992,49,40000
+1422,Fashionable Department Stores,300000.00,International Security,OS,1998,52,68000
+1424,Closeout Boutique,300000.00,Primary Bank & Reserve,OS,1999,55,70000
+1426,Bicycle Merchandise Warehouse,300000.00,International Bank,OS,1999,58,69000
+1428,Spoke Manufacturers,300000.00,United Security,OS,1979,61,74000
+1430,Leather Seat Factory,300000.00,Reserve Security,OS,1996,64,72000
+1432,Good Bicycle Store,300000.00,Primary International,OS,1991,67,71000
+1434,Endurance Bikes,300000.00,Guardian Bank,OS,1993,70,75000
+1436,Practical Bike Supply Company,100000.00,International Security,BS,2001,25,26000
+1438,Some Discount Store,100000.00,Guardian Bank,BS,1996,22,27000
+1440,Variety Cycling,80000.00,Primary International,BS,1990,19,21000
+1442,Accessories Network,80000.00,Reserve Security,BS,1984,16,22000
+1444,Remote Bicycle Specialists,80000.00,United Security,BS,1978,13,19000
+1446,Curbside Sporting Goods,80000.00,International Bank,BS,1972,10,20000
+1448,Friendly Neighborhood Bikes,100000.00,United Security,BS,1998,27,28000
+1450,Guaranteed Sales and Service,100000.00,International Bank,BS,1971,28,28000
+1452,Preferable Bikes,100000.00,Primary Bank & Reserve,BS,2001,29,24000
+1454,Recommended Bicycles,150000.00,International Security,BS,1996,30,35000
+1456,Sunny Place Bikes,150000.00,Guardian Bank,BS,1990,31,39000
+1458,Alpine Ski House,150000.00,Primary International,BS,1984,32,37000
+1460,Cycles and Scooters,150000.00,Reserve Security,BS,1978,33,35000
+1462,Small Bike Accessories Shop,150000.00,United Security,BS,1972,34,37000
+1464,List Price Catalog Company,150000.00,International Bank,BS,1988,35,37000
+1466,Seats and Saddles Company,150000.00,Primary Bank & Reserve,BS,1976,36,38000
+1468,Village Tours,150000.00,International Security,BS,1971,37,40000
+1470,All Cycle Shop,100000.00,Primary International,BS,1998,27,25000
+1472,Tachometers and Accessories,100000.00,Reserve Security,BS,1971,28,25000
+1474,Cycles Sales and Repair,100000.00,United Security,BS,2001,29,26000
+1476,Low Price Cycles,150000.00,International Bank,BS,1996,30,36000
+1478,Metropolitan Manufacturing,150000.00,Primary Bank & Reserve,BS,1990,31,39000
+1480,Orange Bicycle Company,150000.00,International Security,BS,1984,32,37000
+1482,Riding Associates,150000.00,Guardian Bank,BS,1978,33,36000
+1484,Essential Bike Works,150000.00,Primary International,BS,1972,34,39000
+1486,Rural Mountain Bike Mart,150000.00,Reserve Security,BS,1988,35,39000
+1488,City Cycling,150000.00,United Security,BS,1976,36,37000
+1490,Engineered Bike Systems,150000.00,International Bank,BS,1971,37,40000
+1796,Professional Containers and Packaging Co.,150000.00,International Security,BS,1997,46,38000
+1798,One Bike Company,150000.00,Primary Bank & Reserve,BS,1989,49,41000
+1800,Hiatus Bike Tours,150000.00,International Bank,BS,1994,48,40000
+1802,Cycling Goods,150000.00,United Security,BS,1986,47,37000
+1804,Cycle Clearance,150000.00,Reserve Security,BS,1991,46,40000
+1806,Black Bicycle Company,150000.00,Primary International,BS,1983,45,40000
+1808,Transport Bikes,150000.00,Guardian Bank,BS,1988,44,41000
+1810,Sellers of Cycles,150000.00,International Security,BS,1980,43,37000
+1812,Maintenance and Repair for Bicycles,150000.00,Primary Bank & Reserve,BS,1985,42,41000
+1814,Fitness Department Stores,150000.00,International Bank,BS,1977,41,37000
+1816,Famous Bike Shop,150000.00,United Security,BS,1982,40,37000
+1818,Eastward Bike Accessories,150000.00,Reserve Security,BS,1974,39,39000
+1820,Strong Metal Manufacturing,150000.00,Primary International,BS,1979,38,36000
+1822,Gift and Toy Store,150000.00,Guardian Bank,BS,1971,37,36000
+1824,Major Sporting Goods,150000.00,International Security,BS,1976,36,40000
+1826,Executive Discount Store,150000.00,Primary Bank & Reserve,BS,1988,35,39000
+1828,Major Cycling,300000.00,International Security,OS,1995,79,77000
+1830,Getaway Inn,300000.00,Primary Bank & Reserve,OS,1987,80,75000
+1832,Downhill Bicycle Specialists,300000.00,International Bank,OS,1992,81,77000
+1834,Bike Experts,300000.00,United Security,OS,1984,82,73000
+1836,Extraordinary Bike Works,300000.00,Reserve Security,OS,1989,83,75000
+1838,Valley Bicycle Distributors,300000.00,Primary International,OS,1981,84,76000
+1840,Top Sports Supply,300000.00,Guardian Bank,OS,1986,85,78000
+1842,Racing Sales and Service,300000.00,International Security,OS,1978,86,77000
+1844,Metropolitan Bicycle Supply,300000.00,Primary Bank & Reserve,OS,1983,87,78000
+1846,Honest Repair Service,300000.00,International Bank,OS,1975,88,77000
+1848,Designer Department Stores,300000.00,United Security,OS,1980,89,74000
+1850,Wheel Gallery,300000.00,Reserve Security,OS,1972,90,79000
+1852,Top Bike Market,300000.00,International Bank,OS,1987,80,75000
+1854,Region Bike Company,300000.00,United Security,OS,1992,81,75000
+1856,Grown-up Bike Store,300000.00,Reserve Security,OS,1984,82,75000
+1858,Bicycle Lines Distributors,300000.00,Primary International,OS,1989,83,77000
+1860,Sparkling Paint and Finishes,300000.00,Guardian Bank,OS,1981,84,76000
+1862,Racing Association,300000.00,International Security,OS,1986,85,76000
+1864,Plastic Parts Company,300000.00,Primary Bank & Reserve,OS,1978,86,76000
+1866,Gears and Parts Company,300000.00,International Bank,OS,1983,87,74000
+1868,Executive Gift Store,300000.00,United Security,OS,1975,88,76000
+1870,Big Cycle Mall,300000.00,Reserve Security,OS,1980,89,77000
+1872,Budget Bike Company,80000.00,International Bank,BM,1997,18,22000
+1874,Eighth Bike Store,80000.00,Primary Bank & Reserve,BM,1975,19,21000
+1876,Demand Distributors,100000.00,International Security,BM,2000,20,24000
+1878,Immediate Repair Shop,80000.00,Guardian Bank,BM,2000,17,22000
+1880,Off-Price Bike Center,80000.00,Primary International,BM,1994,14,22000
+1882,Red Bicycle Company,80000.00,Reserve Security,BM,1988,11,18000
+1884,Retirement Activities Association,30000.00,United Security,BM,1982,8,11000
+1886,Trendy Department Stores,30000.00,International Bank,BM,1976,5,9000
+1888,Vintage Sport Boutique,30000.00,Primary Bank & Reserve,BM,1970,2,9000
+1890,Travel Sports,80000.00,United Security,BM,1997,17,18000
+1892,West Side Mart,80000.00,International Bank,BM,1975,18,19000
+1894,The Bike Outlet,80000.00,Primary Bank & Reserve,BM,2000,19,21000
+1896,Tenth Bike Store,80000.00,International Bank,BM,1994,18,23000
+1898,Valuable Bike Parts Company,80000.00,Primary Bank & Reserve,BM,1988,16,20000
+1900,Fun Times Club,80000.00,International Security,BM,1982,14,22000
+1902,Chain and Chain Tool Distributions,80000.00,Guardian Bank,BM,1976,12,20000
+1904,Mobile Outlet,80000.00,Primary International,BM,1970,10,17000
+1906,Regional Cycle Shop,30000.00,Reserve Security,BM,1975,8,10000
+1908,Rural Bicycle Supply,30000.00,United Security,BM,1970,6,10000
+1910,Wingtip Toys,80000.00,International Bank,BM,1999,15,20000
+1912,The Cycle Store,80000.00,Primary Bank & Reserve,BM,1994,16,22000
+1914,Educational Services,80000.00,International Security,BM,1987,17,19000
+1916,Active Life Toys,80000.00,Guardian Bank,BM,1997,18,20000
+1918,Simple Bike Parts,80000.00,Primary International,BM,1975,19,21000
+1920,Timely Shipping Service,100000.00,Reserve Security,BM,2000,20,24000
+1922,A Cycle Shop,80000.00,United Security,BM,2000,17,22000
+1924,Bike Products and Accessories,80000.00,International Bank,BM,1994,14,19000
+1926,Fitness Toys,80000.00,Primary Bank & Reserve,BM,1988,11,21000
+1928,Quick Parts and Service,30000.00,International Security,BM,1984,5,7000
+1930,Reliable Brake Systems,30000.00,Guardian Bank,BM,1979,6,7000
+1932,Thrifty Parts and Sales,30000.00,Primary International,BM,1987,7,8000
+1934,A Typical Bike Shop,30000.00,Reserve Security,BM,1982,8,8000
+1936,Active Transport Inc.,30000.00,United Security,BM,1990,9,8000
+1938,Cycle Parts and Accessories,80000.00,International Bank,BM,1985,10,20000
+1940,Fasteners & Bolts Outlet,80000.00,Primary Bank & Reserve,BM,1993,11,18000
+1942,Functional Store North,80000.00,International Security,BM,1988,12,19000
+1944,Quantity Discounts,80000.00,Guardian Bank,BM,1996,13,19000
+1946,Swift Cycles,80000.00,Primary International,BM,1991,14,22000
+1948,Classic Cycle Store,80000.00,Reserve Security,BM,1999,15,22000
+1950,"Helpful Sales and Repair Service ",80000.00,United Security,BM,1994,16,19000
+1952,Large Bike Shop,80000.00,International Bank,BM,1987,17,19000
+1954,Recreation Supplies,80000.00,Primary Bank & Reserve,BM,1997,18,22000
+1956,Wire Baskets and Parts,80000.00,International Security,BM,1975,19,19000
+1958,Ultimate Bicycle Company,300000.00,International Security,OS,1974,94,78000
+1960,Sports Store,300000.00,Primary Bank & Reserve,OS,1980,95,76000
+1962,Metropolitan Equipment,300000.00,International Bank,OS,1986,96,78000
+1964,Extended Tours,300000.00,United Security,OS,1992,97,78000
+1966,Convenient Sales and Service,300000.00,Reserve Security,OS,1998,98,77000
+1968,Solid Bike Parts,300000.00,Primary International,OS,1999,99,77000
+1970,Permanent Finish Products,300000.00,Guardian Bank,OS,1999,100,79000
+1972,Mercantile Outlet,300000.00,International Security,OS,1979,66,71000
+1974,Links Works,150000.00,Guardian Bank,OS,1974,40,39000
+1976,Exhilarating Cycles,150000.00,International Security,OS,1980,43,40000
+1978,Exercise Center,80000.00,Guardian Bank,BM,1975,19,23000
+1980,Great Bicycle Supply,100000.00,Primary International,BM,2000,20,27000
+1982,Mail-Order Outlet,80000.00,Reserve Security,BM,2000,17,18000
+1984,Nearby Cycle Shop,80000.00,United Security,BM,1994,14,20000
+1986,Recreation Toy Store,80000.00,International Bank,BM,1988,11,17000
+1988,Retreat Inn,30000.00,Primary Bank & Reserve,BM,1982,8,7000
+1990,Technical Parts Manufacturing,30000.00,International Security,BM,1976,5,7000
+1992,Totes & Baskets Company,30000.00,Guardian Bank,BM,1970,2,6000
+1994,World of Bikes,80000.00,Primary Bank & Reserve,BM,1997,17,19000
+2051,A Bicycle Association,80000.00,International Security,BM,1975,18,19000
